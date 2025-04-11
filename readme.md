@@ -156,5 +156,4 @@ git pull origin main
 
 > Now your local code will include all updates made by others.
 
----
 
