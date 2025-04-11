@@ -1,4 +1,4 @@
 # add a new file
-print("hi")
 
-print("happy 2024")
+print("hello")
+print("2025 coming")
