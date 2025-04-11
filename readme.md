@@ -1,6 +1,3 @@
-Here you go, Nikita — your content formatted in clean and professional **Markdown** style:
-
----
 
 # ✅ Case 1: From GitHub Repo to Local Machine
 
