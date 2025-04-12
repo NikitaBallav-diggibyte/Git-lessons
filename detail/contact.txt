@@ -1,0 +1,33 @@
+
+1. **Name**: John Doe  
+   - **Phone**: +1 (555) 123-4567  
+   - **Email**: johndoe@example.com
+
+2. **Name**: Sarah Lee  
+   - **Phone**: +44 7911 123456  
+   - **Email**: sarahlee@mail.com
+
+3. **Name**: Carlos Mendoza  
+   - **Phone**: +52 1 55 1234 5678  
+   - **Email**: carlos.m@example.com
+
+4. **Name**: Emma Brown  
+   - **Phone**: +61 400 123 456  
+   - **Email**: emma.brown@abc.com
+
+5. **Name**: Priya Sharma  
+   - **Phone**: +91 98765 43210  
+   - **Email**: priyasharma@xyz.in
+
+6. **Name**: Michael Smith  
+   - **Phone**: +1 (555) 987-6543  
+   - **Email**: mike.smith@outlook.com
+
+7. **Name**: Olivia Johnson  
+   - **Phone**: +44 7912 345678  
+   - **Email**: olivia.johnson@ukmail.com
+
+8. **Name**: Ahmed Ali  
+   - **Phone**: +20 100 123 4567  
+   - **Email**: ahmed.ali@gmail.com
+
