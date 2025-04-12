@@ -3,7 +3,3 @@ India
 Brazil
 canada
 Australia
-
- **Name**: Ahmed Ali  
-   - **Phone**: +20 100 123 4567  
-   - **Email**: ahmed.ali@gmail.com
