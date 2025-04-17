@@ -18,7 +18,7 @@
 #
 # Group A contains 'a', 'b', 'a' Group B contains 'a', 'c'
 #
-# For the first word in group B, 'a', it appears at positions  and  in group A. The second word, 'c', does not appear in group A, so print .
+# For the first word in group B, 'a', it appears at positions  and  in group A. The second word, 'c', does not appear in group A, so print -1.
 #
 # Expected output:
 #
