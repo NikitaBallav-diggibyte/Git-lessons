@@ -1,10 +1,11 @@
 import logging
+# from logging import *   # with this no need to write logging everytime
 import demo1
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
-f= logging.Formatter("%(asctime)s - %(filename)s - %(levelname)s - %(message)s")
+f= logging.Formatter("%(asctime)s - %(filename)s - %(levelname)s - %(message)s - %(lineno)s", datefmt="%d-%b-%y %H:%M:%S")
 
 fh= logging.FileHandler("demo2.log", mode= "w")
 fh.setFormatter(f)

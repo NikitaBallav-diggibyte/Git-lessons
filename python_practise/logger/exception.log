@@ -1,0 +1,5 @@
+26-Apr-25 12:39:13 - exception-logging.py - ERROR - Exception occured - 23
+Traceback (most recent call last):
+  File "C:\Users\Nikita Ballav\Downloads\git practise\git_learnings\one\python_practise\logger\exception-logging.py", line 19, in <module>
+    raise AccessDenied("Access denied")
+AccessDenied: Access denied
